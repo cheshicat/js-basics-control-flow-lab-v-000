@@ -1,2 +1,2 @@
-function scuberGreetingForFeet(someValue) {
+function scuberGreetingForFeet(feet) {
 }
